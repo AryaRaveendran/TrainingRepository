@@ -1,0 +1,21 @@
+class DataType
+{
+	public static void main(String args[])
+	{
+		int a=20;
+		float b=1.2f;
+		double c=1.1;
+		String d="hi";
+		boolean e=true;
+		char f='A';
+		short g=100;
+		System.out.println("int value="+a);
+        System.out.println("float b="+b);
+        System.out.println("double c="+c);
+        System.out.println("String="+d);
+        System.out.println("boolean="+e);
+        System.out.println("char f="+f);
+		System.out.println("short g="+g);
+		
+	}
+}
